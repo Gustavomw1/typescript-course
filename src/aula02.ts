@@ -1,7 +1,7 @@
-const vernome = 'bruno'
-const vercanal = 'CFBcursos'
-const verhello = 'olá'
+const vernome: string = "bruno";
+const vercanal: string = "CFBcursos";
+const verhello: string = "olá";
 
-console.log(vernome)
-console.log(vercanal)
-console.log(verhello)
+console.log(vernome);
+console.log(vercanal);
+console.log(verhello);

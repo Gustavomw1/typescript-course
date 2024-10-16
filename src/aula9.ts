@@ -1,4 +1,4 @@
-enum dias {
+enum dias { //Criando um anum/objeto
   domingo = 0,
   segunda = 1,
   terça = 2,

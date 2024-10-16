@@ -1,4 +1,4 @@
-let numeros: number[] = [20, 30, 40];
+let numeros: number[] = [20, 30, 40]; // Variavel recebendo tipo 'number' recebendo parametros no array
 
 //Adiciona o numero no final
 numeros.push(50);
