@@ -1,4 +1,4 @@
-function soma(n1: number = 0, n2: number = 0): number {
+function som(n1: number = 0, n2: number = 0): number {
   return n1 + n2;
 }
 
